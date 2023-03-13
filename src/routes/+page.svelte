@@ -4,7 +4,7 @@
   import Hero from "../components/Hero.svelte";
 </script>
 
-<Navbar />
+<Navbar/>
 <div>
   <Hero />
 </div>

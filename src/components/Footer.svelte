@@ -2,7 +2,7 @@
   import ClearStreamsLogoSvg from "./svg/ClearStreamsLogoSvg.svelte";
 </script>
 
-<footer class="footer p-10 bg-base-200 text-base-content">
+<footer class="footer p-10 bg-base-200 text-base-content drop-shadow-sm">
   <div>
     <ClearStreamsLogoSvg/>
     <p><br/>Clear air and water is your right.</p>
