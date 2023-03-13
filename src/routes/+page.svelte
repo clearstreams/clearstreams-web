@@ -7,6 +7,7 @@
 <Navbar/>
 <div>
   <Hero />
+  <p>Dev Branch Test</p>
 </div>
 <Footer />
 
