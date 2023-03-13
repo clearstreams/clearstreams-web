@@ -9,10 +9,9 @@
 <Navbar/>
 
 <Hero />
+<ReportsCard />
 <div class="container mx-auto px-4 md:px-12">
   <div class="flex flex-wrap -mx-1 lg:-mx-4 justify-center">
-    <IndexCard />
-    <ReportsCard />
     <IndexCard />
   </div>
 </div>
