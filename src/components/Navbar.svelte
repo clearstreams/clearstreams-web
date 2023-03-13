@@ -4,7 +4,7 @@
 	import ClearStreamsLogoSvg from './svg/ClearStreamsLogoSvg.svelte';
 </script>
 
-<div class="navbar bg-base-100 drop-shadow-sm">
+<div class="navbar bg-base-100 drop-shadow-sm z-300">
 	<div class="navbar-start">
 		<div class="dropdown">
 			<label tabindex="0" class="btn btn-ghost btn-circle">
