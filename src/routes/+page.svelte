@@ -1,6 +1,14 @@
-<h1 class="text-3xl font-bold underline">
-  Hello world!
-</h1>
+<script>
+  import Navbar from "../components/Navbar.svelte";
+  import Footer from "../components/Footer.svelte";
+  import Hero from "../components/Hero.svelte";
+</script>
+
+<Navbar />
+<div>
+  <Hero />
+</div>
+<Footer />
 
 <style lang="postcss">
   :global(html) {
